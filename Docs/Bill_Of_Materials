@@ -1,0 +1,11 @@
+# Bill of Materials (BOM)
+
+| Item  |       Component      |        Specification        |  Quantity   |    Supplier    |       Notes       |
+|-------|----------------------|-----------------------------|-------------|----------------|-------------------|
+|   1   | ESP32-S3 Dev Board   | Espressif ESP32-S3-WROOM    | 1           | Web            | Main MCU          |
+|   2   | MEMS Microphone      | SPH0641LU4H                 | 1           | Web            | Audio input       |
+|   3   | LiPo Battery         | 3.7V 900mAh                 | 1           | Web            | Rechargeable      |
+|   4   | Charging Module      | TP4056                      | 1           | Web            | USB-C preferred   |
+|   5   | 3D Printed Housing   | PETG/ABS                    | 4 parts     | In-house       | FDM printed       |
+|   6   | Acoustic Membrane    | PE-Foil                     | 1           | Local Store    | Coupling element  |
+|   7   | O-Ring  8x1mm        | NBR                         | 1           | Local Store    | Seal              |
