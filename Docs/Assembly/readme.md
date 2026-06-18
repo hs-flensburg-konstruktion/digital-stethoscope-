@@ -40,4 +40,4 @@ Install the membrane cap on the front side of the housing (pic_16).
 
 Step 10: Finished Assembly
 
-The digital stethoscope is now fully assembled and ready for operation (pic_17).
+The digital stethoscope is now fully assembled (pic_17).
