@@ -1,18 +1,30 @@
 Assembly Instructions
 
-All components required for the assembly are shown in pic_1.
+All components required for the assembly are shown in pictur_1.
+
+![](Pic_1.jpeg)
 
 Step 1: Install the Acoustic Membrane
 
-Insert the PE membrane into the membrane cap as shown in pic_2.
+Insert the PE membrane into the membrane cap as shown in picture_2.
+
+![](pic_2.jpeg)
 
 Step 2: Insert the Battery
 
-Slide the LiPo battery into the battery compartment from the rear side of the electronics carrier. Make sure that the battery wires are routed upwards as shown in pic_3 and pic_4.
+Slide the LiPo battery into the battery compartment from the rear side of the electronics carrier. Make sure that the battery wires are routed upwards as shown in picture_3 and picture_4.
+
+![](pic_3.jpeg)
+
+![](pic_4.jpeg)
 
 Step 3: Mount the Battery Management System
 
-Snap the battery charging module (BMS) into its designated position above the battery compartment. The correctly installed module is shown in pic_5 and pic_6.
+Snap the battery charging module (BMS) into its designated position above the battery compartment. The correctly installed module is shown in picture_5 and picture_6.
+
+![](pic_5.jpeg)
+
+![](pic_6.jpeg)
 
 Step 4: Install the ESP32-S3
 
