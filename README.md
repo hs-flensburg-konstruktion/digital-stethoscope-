@@ -174,3 +174,51 @@ Mechanical design and hardware integration by the student team in collaboration 
 This project is intended to be released as Open Source Hardware.
 
 CAD files, documentation and source code are provided to enable reproduction, modification and further development by the community.
+
+# Druckeinstellungen – Elektronikplatte
+
+Dieses Repository dokumentiert die verwendeten Druckeinstellungen für die Fertigung der Elektronikplatte mittels FDM-3D-Druck.
+
+## Hardware
+
+| Parameter | Wert |
+|------------|--------|
+| Bauteil | Elektronikplatte |
+| Drucker | Bambu Lab A1 |
+| Düse | 0,4 mm |
+| Filament | PLA |
+
+## Druckeinstellungen
+
+| Parameter | Wert |
+|------------|--------|
+| Schichthöhe | 0,08 mm (Extra Fine) |
+
+## Stützstrukturen
+
+| Parameter | Wert |
+|------------|--------|
+| Stützen aktiviert | Ja |
+| Typ | Tree (Auto) |
+| Stil | Standard |
+| Schwellenwinkel | 15° |
+| Nur auf Druckplatte | Ja |
+| Nur kritische Bereiche stützen | Ja |
+| Kleine Überhänge entfernen | Nein |
+
+## Hinweise
+
+- Die geringe Schichthöhe von **0,08 mm** wurde gewählt, um eine möglichst hohe Oberflächenqualität und Detailgenauigkeit zu erreichen.
+- Es werden automatisch generierte **Tree-Stützen** verwendet.
+- Die Stützen werden ausschließlich von der Druckplatte aus erzeugt.
+- Nur kritische Überhänge werden unterstützt, um Materialverbrauch und Druckzeit zu reduzieren.
+- Als Druckmaterial kommt **PLA** zum Einsatz, da es sich durch einfache Verarbeitbarkeit und gute Maßhaltigkeit auszeichnet.
+
+## Verwendete Software
+
+- Bambu Studio
+- Bambu Lab A1
+
+## Lizenz
+
+Die in diesem Repository bereitgestellten Druckeinstellungen dürfen frei verwendet, angepasst und weitergegeben werden.
