@@ -28,28 +28,50 @@ Snap the battery charging module (BMS) into its designated position above the ba
 
 Step 4: Install the ESP32-S3
 
-Insert the ESP32-S3 from the front side of the electronics carrier. Carefully press the pin header into the corresponding slot until the board is securely seated (pic_7, pic_8).
+Insert the ESP32-S3 from the front side of the electronics carrier. Carefully press the pin header into the corresponding slot until the board is securely seated (picture_7, picture_8).
+
+![](pic_7.jpeg)
+
+![](pic_8.jpeg)
 
 Step 5: Install the MEMS Microphone
 
-Insert the MEMS microphone module from the top into the guiding rails and gently press it into its final position (pic_9, pic_10).
+Insert the MEMS microphone module from the top into the guiding rails and gently press it into its final position (picture_9, picture_10).
+
+![](pic_9.jpeg)
+
+![](pic_10.jpeg)
 
 Step 6: Check Microphone Alignment
 
-After installation, only the microphone itself should protrude through the opening in the electronics carrier, as shown in pic_11.
+After installation, only the microphone itself should protrude through the opening in the electronics carrier, as shown in picture_11.
+
+![](pic_11.jpeg)
 
 Step 7: Insert the Electronics Carrier
 
-Place the fully assembled electronics carrier into the rear housing part as shown in pic_12 and pic_13.
+Place the fully assembled electronics carrier into the rear housing part as shown in picture_12 and picture_13.
+
+![](pic_12.jpeg)
+
+![](pic_13.jpeg)
 
 Step 8: Close the Housing
 
-Screw the front housing part onto the rear housing until the enclosure is fully closed (pic_14, pic_15).
+Screw the front housing part onto the rear housing until the enclosure is fully closed (picture_14, picture_15).
+
+![](pic_14.jpeg)
+
+![](pic_15.jpeg)
 
 Step 9: Attach the Membrane Cap
 
-Install the membrane cap on the front side of the housing (pic_16).
+Install the membrane cap on the front side of the housing (picture_16).
+
+![](pic_16.jpeg)
 
 Step 10: Finished Assembly
 
-The digital stethoscope is now fully assembled (pic_17).
+The digital stethoscope is now fully assembled (picture_17).
+
+![](pic_17.jpeg)
