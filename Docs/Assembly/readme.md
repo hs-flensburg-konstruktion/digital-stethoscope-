@@ -1,6 +1,6 @@
 Assembly Instructions
 
-All components required for the assembly are shown in pictur_1.
+All components required for the assembly are shown in picture_1.
 
 ![](Pic_1.jpeg)
 
