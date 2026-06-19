@@ -1,6 +1,3 @@
-# digital-stethoscope-
-Wir entwickeln ein digitales Stethoskop ("Stethogram") als low-cost Open Source Hardware
-
 # Open Source Digital Stethoscope
 
 An affordable and reproducible digital stethoscope designed for local manufacturing using FDM 3D printing. The project aims to provide a robust and repairable platform for recording heart and lung sounds, especially in regions with limited access to medical equipment.
